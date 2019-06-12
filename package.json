@@ -1,0 +1,32 @@
+{
+  "name": "react-animated-menu",
+  "version": "0.0.1",
+  "description": "A React component that handles all logic for managing visual state for menus and lists.",
+  "keywords": [
+    "react",
+    "javascript",
+    "dom"
+  ],
+  "main": "lib/index.js",
+  "repository": "git@github.com:timc1/react-animated-menu.git",
+  "author": "Tim Chang <timchang.tcc@gmail.com> (https://timcchang.com)",
+  "license": "MIT",
+  "scripts": {
+    "build": "rm -rf ./lib && tsc"
+  },
+  "peerDependencies": {
+    "react": "^16.8.x",
+    "react-dom": "^16.8.x",
+    "typescript": "^3.5.1"
+  },
+  "devDependencies": {
+    "@types/react": "16.8.10",
+    "@types/react-dom": "16.8.3",
+    "@typescript-eslint/parser": "^1.10.2",
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^4.3.0",
+    "eslint-config-react-app": "^4.0.1",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react-hooks": "^1.6.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "outDir": "./lib",
+    "lib": ["es6", "dom", "es2017"],
+    "target": "es5",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "skipLibCheck": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "removeComments": true,
+    "declaration": false,
+    "sourceMap": true,
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
+    "typeRoots": ["index.d.ts", "node_modules/@types"]
+  },
+  "include": ["./src/**/*.tsx"],
+  "exclude": ["node_modules"]
+}
