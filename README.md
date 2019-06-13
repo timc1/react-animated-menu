@@ -8,7 +8,7 @@
 <hr />
 
 <p align="center">
-<img src="https://github.com/timc1/react-fullscreen-image/raw/master/demo.gif" alt="demo" />
+<img src="https://github.com/timc1/react-animated-menu/blob/master/demo.gif" alt="demo" />
 </p>
 
 ## Introduction
