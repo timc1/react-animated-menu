@@ -1,6 +1,6 @@
 {
   "name": "react-animated-menu",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A React component that handles all logic for managing visual state for menus and lists.",
   "keywords": [
     "react",
