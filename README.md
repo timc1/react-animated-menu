@@ -1,11 +1,11 @@
 <h1 align="center">
-  react-animated-menu
+  react-animated-menu 
 </h1>
 <p align="center" style="font-size: 1.5rem;">
-  Simple primitives to build dynamic menu and list components.
+  Simple primitives to build dynamic menu and list components. ☰
 </p>
 
-<hr />
+
 
 <p align="center">
 <img src="https://github.com/timc1/react-animated-menu/blob/master/demo.gif" alt="demo" />
